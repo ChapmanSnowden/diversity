@@ -1,12 +1,12 @@
-Why diversity?
-Being able to recognize, appreciate and incorporate not only the similarities but the differences that exist within and between people is fundamentally valuable to Dev Bootcamp. 
-Dev Bootcamp is a bridge between those who strive for a career as a professional web developer and those professional opportunities. In this position, we want to be able to instill a powerful belief in diversity in the mindsets of all Dev Bootcamp students while also increasing the number of diverse students that attend Dev Bootcamp. 
+Why is diversity important to DBC?
+* Being able to recognize, appreciate and incorporate not only the similarities but the differences that exist within and between people is fundamentally valuable to Dev Bootcamp. 
+* Dev Bootcamp is a bridge between those who strive for a career as a professional web developer and those professional opportunities. In this position, we want to be able to instill a powerful belief in diversity in the mindsets of all Dev Bootcamp students while also increasing the number of diverse students that attend Dev Bootcamp. 
 
 How do we think about diversity?
-We believe that diversity is an integral part of the Dev Bootcamp ethos - diversity makes all of us better people and software developers
-Diversity is not merely the pursuit of the idea of equal access to software development, it’s an attempt to redefine the profession itself
-We believe that diversity is both visible and invisible. We often conceive of diversity in terms of the visible differences (e.g. age, race, gender, physical stature) and ignore the invisible aspects of diversity (work/life experience, sexual orientation, marital status, educational background, parental status, income, religious beliefs and affiliations, geographic location, or socioeconomic status.)
-We believe that diversity is by definition uncomfortable. True diversity ensures that someone in the room will have experiences, beliefs and values that run counter to yours. 
+* We believe that diversity is an integral part of the Dev Bootcamp ethos - diversity makes all of us better people and software developers
+* Diversity is not merely the pursuit of the idea of equal access to software development, it’s an attempt to redefine the profession itself
+* We believe that diversity is both visible and invisible. We often conceive of diversity in terms of the visible differences (e.g. age, race, gender, physical stature) and ignore the invisible aspects of diversity (work/life experience, sexual orientation, marital status, educational background, parental status, income, religious beliefs and affiliations, geographic location, or socioeconomic status.)
+* We believe that diversity is by definition uncomfortable. True diversity ensures that someone in the room will have experiences, beliefs and values that run counter to yours. 
 
 What is diversity not?
 We believe that diversity is not simply achieved through an increase in numbers (e.g. the Noah’s Ark approach to diversity.) Simply introducing more members of a minority group does not alter the fundamental beliefs of the larger group. 
