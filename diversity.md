@@ -8,9 +8,9 @@ How do we think about diversity?
 * We believe that diversity is both visible and invisible. We often conceive of diversity in terms of the visible differences (e.g. age, race, gender, physical stature) and ignore the invisible aspects of diversity (work/life experience, sexual orientation, marital status, educational background, parental status, income, religious beliefs and affiliations, geographic location, or socioeconomic status.)
 * We believe that diversity is by definition uncomfortable. True diversity ensures that someone in the room will have experiences, beliefs and values that run counter to yours. 
 
-What is diversity not?
-* We believe that diversity is not simply achieved through an increase in numbers (e.g. the Noah’s Ark approach to diversity.) Simply introducing more members of a minority group does not alter the fundamental beliefs of the larger group. 
-* Diversity is not confined to a set of initiatives that by nature start and stop, rather it is an ongoing pursuit led by all representatives of Dev Bootcamp. Building a diverse student body and staff takes uniformity of purpose and consistent effort of all DBC representatives.
+We don't believe that diversity is:
+* simply achieved through an increase in numbers (e.g. the Noah’s Ark approach to diversity.) Simply introducing more members of a minority group does not alter the fundamental beliefs of the larger group. 
+* confined to a set of initiatives that by nature start and stop, rather it is an ongoing pursuit led by all representatives of Dev Bootcamp. Building a diverse student body and staff takes uniformity of purpose and consistent effort of all DBC representatives.
 
 What do we expect of DBC staff and students regarding diversity
 * To set and live by cultural norms centered around embracing the differences and discomfort that diversity will bring
